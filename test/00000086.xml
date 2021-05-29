@@ -1,0 +1,38 @@
+<annotation>
+	<folder>CAR</folder>
+	<filename>CAR.mp4</filename>
+	<path>C:\Users\WIN 8.1\Desktop\Activities\Startup\Hack\Videos\CAR\CAR.mp4</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>305</ymin>
+			<xmax>373</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>418</ymin>
+			<xmax>993</xmax>
+			<ymax>978</ymax>
+		</bndbox>
+	</object>
+</annotation>
