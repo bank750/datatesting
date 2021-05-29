@@ -1,0 +1,27 @@
+<annotation>
+	<folder>VDO_all</folder>
+	<filename>VDO01_04.jpg</filename>
+	<path>C:\Users\WIN 8.1\Desktop\Activities\Startup\Hack\Hackathon\Hack_Video\VDO_all\VDO01_04.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>854</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1-1</name>
+		<id>7</id>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>225</ymin>
+			<xmax>158</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>
